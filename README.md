@@ -4,6 +4,8 @@
 
 This project involves the analysis of sales data from various perspectives, including sales by category, monthly sales trends, profits gained, and customer segmentation. The data is organized into different Excel sheets, each containing specific details related to sales performance.
 
+![](img/sale dashboard.png)
+
 ## Data Files
 
 The primary file for this project is an Excel workbook titled **"sales data Analysis.xlsx"**. This workbook contains the following sheets:
